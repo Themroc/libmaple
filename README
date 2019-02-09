@@ -1,7 +1,4 @@
-[INACTIVE] libmaple
-
-libmaple is inactive and no longer accepting submissions. Please consider
-www.stm32duino.com instead.
+A few bugfixes and missing define's added by themroc
 
 ------------------------------------------------------------------------------
 
